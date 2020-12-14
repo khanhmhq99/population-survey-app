@@ -2,6 +2,7 @@
   "name": "population-survey-app",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://pxweb.gso.gov.vn/api/v1/vi/D%C3%A2n%20s%E1%BB%91%20v%C3%A0%20lao%20%C4%91%E1%BB%99ng/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
